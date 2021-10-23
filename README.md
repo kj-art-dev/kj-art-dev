@@ -11,8 +11,8 @@
   - Unreal Engine 4.27+
   - Program-specific languages such as: MAXscript(3DsMax), MEL(Maya), VEX(Houdini), and ZScript(ZBrush), along with their respective Python counterparts (if they exist) 
 - 💞️ I’m looking to collaborate on ...
-  - Game development (Indie, AAA, everything inbetween)
-  - 
+  - Game development (Indie, AAA, everything inbetween, all facets)
+  - Software development as it relates to game development (2D and 3D)
 - 📫 How to reach me ...
   -Discord: Exelion#1341
 
