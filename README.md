@@ -8,8 +8,7 @@
 - 🌱 I’m currently learning ...
   - C/C++
   - Python
-  - Unreal Engine 4.27+
-  - Program-specific languages such as: MAXscript(3DsMax), MEL(Maya), VEX(Houdini), and ZScript(ZBrush), along with their respective Python counterparts (if they exist) 
+  - Unreal Engine 4.27+a6
 - 💞️ I’m looking to collaborate on ...
   - Game development (Indie, AAA, everything inbetween, all facets)
   - Software development as it relates to game development (2D and 3D)
