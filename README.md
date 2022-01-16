@@ -11,7 +11,7 @@
   - Unreal Engine 4.27+
 - 💞️ I’m looking to collaborate on ...
   - Game development (Indie, AAA, everything inbetween, all facets)
-  - Software development as it relates to game development (2D and 3D)
+  - Software and tools development.
 - 📫 How to reach me ...
   - Discord: Exelion#1341
 
