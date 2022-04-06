@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning ...
   - C/C++
   - Python
-  - Unreal Engine 5+
+  - Unreal Engine 5.0+
 - 💞️ I’m looking to collaborate on ...
   - Game development (Indie, AAA, everything inbetween, all facets)
   - Software and tools development.
