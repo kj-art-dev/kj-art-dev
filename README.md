@@ -3,13 +3,13 @@
 - 👀 I’m interested in ...
   - Game art (3D and 2D)
   - Game development
-  - Software Engineering
   - Technical art
   - Software development
 - 🌱 I’m currently learning ...
   - C/C++
   - Python
   - Java
+  - Perl
   - Unreal Engine 5
 - 💞️ I’m looking to collaborate on ...
   - Game development (Indie, AAA, everything inbetween, all facets)
