@@ -15,7 +15,7 @@
   - Game development (Indie, AAA, everything inbetween, all facets)
   - Software development.
 - 📫 How to reach me ...
-  - Discord: Exelion#1341
+  - Discord: kj_art_dev
 
 <!---
 kj-art-dev/kj-art-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
